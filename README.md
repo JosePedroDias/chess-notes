@@ -43,7 +43,7 @@ https://www.chess.com/openings/Vienna-Game
 fen: rnbqkbnr/pppppppp/8/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 1
 ```
 
-#### Ruy Lopez Opening (1.e4 e5 2.Nf3 Nc6 3.Bb5)
+#### Ruy Lopez / Spanish Opening (1.e4 e5 2.Nf3 Nc6 3.Bb5)
 https://www.chess.com/openings/Ruy-Lopez-Opening
 
 #### Italian Game (1.e4 e5 2.Nf3 Nc6 3.Bc4)
@@ -86,6 +86,19 @@ fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1
 orientation: black
 ```
 
+#### Pirc / King's Indian Defense (1.e4 d6)
+
+https://www.chess.com/openings/Pirc-Defense
+https://www.chess.com/openings/Pirc-Defense-Classical-Variation
+https://lichess.org/opening/Pirc_Defense_Kholmov_System/e4_d6_d4_Nf6_Nc3_g6_Bc4
+
+```chess
+fen: rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4
+orientation: black
+```
+
+classical variation ⬆️
+
 ### 1.d4
 
 #### Queen's Gambit (1.d4 d5 2.c4)
@@ -96,26 +109,58 @@ fen: rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 1
 orientation: black
 ```
 
+#### Dutch Defense (1.d4 f5)
+
+https://www.chess.com/openings/Dutch-Defense
+
+```chess
+fen: rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq f6 0 2
+orientation: black
+```
+
 ### 1.Nf3
 
 #### Reti Opening (1.NF3)
 https://www.chess.com/openings/Reti-Opening
 
-### hacks
 
-#### Fool's Mate (1.f3 e5 2.g4 Qh4#)
+## hacks
+
+### Fool's Mate (1.f3 e5 2.g4 Qh4#)
 https://www.chess.com/openings/Barnes-Opening-Fools-Mate
 
 ```chess
 fen: rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq - 1 3
 ```
 
-#### Scholar's Mate (1.e4 e5 2.Bc4 Nc6 3.Qh5 Nf6 4.Qxf7#)
+### Scholar's Mate (1.e4 e5 2.Bc4 Nc6 3.Qh5 Nf6 4.Qxf7#)
 https://www.chess.com/terms/scholars-mate-chess
 
 ```chess
 fen: r1bqkb1r/pppp1Qpp/2n2n2/4p3/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 1
 ```
+
+# end game
+
+## ladder mate (Q + R, R + R)
+
+- [queen and rook](https://lichess.org/editor/8/8/8/3k4/8/8/8/5RQK_w_-_-_0_1?color=white)
+- [two rooks](https://lichess.org/editor/8/8/8/8/8/4k3/6R1/6RK_w_-_-_0_1?color=white)
+
+## king and queen mate
+
+- [queen 1](https://lichess.org/editor/8/8/5Q2/2k5/4K3/8/8/8_w_-_-_0_1?color=white)
+- [queen 2](https://lichess.org/editor/8/8/8/3k4/8/8/8/6QK_w_-_-_0_1?color=white)
+
+## king and rook mate
+
+- [rook 1](https://lichess.org/editor/3k4/R7/8/4K3/8/8/8/8_w_-_-_0_1?color=white)
+- [rook 2](https://lichess.org/editor/8/8/8/8/4k3/8/8/6RK_w_-_-_0_1?color=white)
+
+## two piece checkmate
+
+- [queen and bishop](https://lichess.org/editor/8/8/3B4/6K1/8/8/2k5/q7_b_-_-_0_1?color=white)
+- [queen and knight](https://lichess.org/editor/8/8/8/3nk3/8/3Q4/8/7K_w_-_-_0_1?color=white)
 
 # bindings
 
