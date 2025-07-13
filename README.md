@@ -219,7 +219,7 @@ fen: 8/8/8/8/8/4k3/6R1/6RK w - - 0 1
 | -------------------- | ---------- | ---------- | ------- |
 | zen mode             | Z          |            |         |
 | prev move            | left       |            |         |
-| next moev            | right      |            |         |
+| next move            | right      |            |         |
 | first move           | up         |            |         |
 | last move            | down       |            |         |
 | flip board           |            | X          | F       |
@@ -229,7 +229,7 @@ fen: 8/8/8/8/8/4k3/6R1/6RK w - - 0 1
 | show threats         |            |            | X       |
 | computer arrows      |            |            | A       |
 | local/comp analysis  |            |            | L/Z     |
-| = *draw* =           |            |            |         |
+| = *draw overlays* =  |            |            |         |
 | highlight cell red   | RMB        |            |         |
 | highlight cell green | ctl/sh RMB |            |         |
 | highlight cell blue  | alt RMB    |            |         |
