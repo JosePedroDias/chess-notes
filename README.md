@@ -11,10 +11,14 @@
 - 9 - Q
 
 ## tactics
-- **pins** - have 2 aligned opponents pieces in line of sight, with the most value behind the other. the one in the middle is 'pinned'
-- **skewers** - similar to pin, but the immediately attacked piece is the most valuable. it can be saved but you will capture the other one in that case
-- **forks** - your piece is targetting multiple opponent cells, making it impossible to avoid capturing. knights are super effective forking
-- **discovered attack** - moving one piece of ours results in another piece attacking opponent pieces (if a king, it's called **discovered check**)
+- **pins** - have 2 aligned opponents pieces in line of sight, with the most value behind the other. the one in the middle is 'pinned'  
+[pin exercises](https://lichess.org/training/pin)
+- **skewers** - similar to pin, but the immediately attacked piece is the most valuable. it can be saved but you will capture the other one in that case  
+[fork exercises](https://lichess.org/training/fork)
+- **forks** - your piece is targetting multiple opponent cells, making it impossible to avoid capturing. knights are super effective forking  
+[skewer exercises](https://lichess.org/training/skewer)
+- **discovered attack** - moving one piece of ours results in another piece attacking opponent pieces (if a king, it's called **discovered check**)  
+[discovered attack exercises](https://lichess.org/training/discoveredAttack)
 
 
 # openings
@@ -36,6 +40,8 @@ https://www.chess.com/openings/Scotch-Game
 fen: r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 1
 ```
 
+[puzzles](https://lichess.org/training/Scotch_Game)
+
 #### Vienna Game (1.e4 e5 2.Nc3)
 https://www.chess.com/openings/Vienna-Game
 
@@ -43,11 +49,17 @@ https://www.chess.com/openings/Vienna-Game
 fen: rnbqkbnr/pppppppp/8/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 1
 ```
 
+[puzzles](https://lichess.org/training/Vienna_Game)
+
 #### Ruy Lopez / Spanish Opening (1.e4 e5 2.Nf3 Nc6 3.Bb5)
 https://www.chess.com/openings/Ruy-Lopez-Opening
 
+[puzzles](https://lichess.org/training/Ruy_Lopez)
+
 #### Italian Game (1.e4 e5 2.Nf3 Nc6 3.Bc4)
 https://www.chess.com/openings/Italian-Game
+
+[puzzles](https://lichess.org/training/Italian_Game)
 
 ### 1.d4
 
@@ -57,6 +69,8 @@ https://www.chess.com/openings/London-System
 ```chess
 fen: rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3
 ```
+
+[puzzles](https://lichess.org/training/Queens_Pawn_Game_London_System)
 
 ## for black
 
@@ -70,6 +84,8 @@ fen: rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 orientation: black
 ```
 
+[puzzles](https://lichess.org/training/Caro-Kann_Defense)
+
 #### French Defense (1.e4 e6 2.d4 d5)
 https://www.chess.com/openings/French-Defense
 
@@ -78,6 +94,8 @@ fen: rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1
 orientation: black
 ```
 
+[puzzles](https://lichess.org/training/French_Defense)
+
 #### Sicilian Defense (1.e4 c5)
 https://www.chess.com/openings/Sicilian-Defense
 
@@ -85,6 +103,8 @@ https://www.chess.com/openings/Sicilian-Defense
 fen: rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 1
 orientation: black
 ```
+
+[puzzles](https://lichess.org/training/Sicilian_Defense)
 
 #### Pirc / King's Indian Defense (1.e4 d6)
 
@@ -96,6 +116,8 @@ https://lichess.org/opening/Pirc_Defense_Kholmov_System/e4_d6_d4_Nf6_Nc3_g6_Bc4
 fen: rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4
 orientation: black
 ```
+
+[puzzles](https://lichess.org/training/Pirc_Defense)
 
 classical variation ⬆️
 
@@ -109,6 +131,9 @@ fen: rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq - 0 1
 orientation: black
 ```
 
+[puzzles: declined](https://lichess.org/training/Queens_Gambit_Declined)
+[puzzles: accepted](https://lichess.org/training/Queens_Gambit_Accepted)
+
 #### Dutch Defense (1.d4 f5)
 
 https://www.chess.com/openings/Dutch-Defense
@@ -118,11 +143,14 @@ fen: rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq f6 0 2
 orientation: black
 ```
 
+[puzzles](https://lichess.org/training/Dutch_Defense)
+
 ### 1.Nf3
 
 #### Reti Opening (1.NF3)
 https://www.chess.com/openings/Reti-Opening
 
+[puzzles](https://lichess.org/training/Reti_Opening)
 
 ## hacks
 
@@ -151,7 +179,7 @@ fen: 8/8/8/8/8/4k3/6R1/6RK w - - 0 1
 ## ladder mate (Q + R, R + R)
 
 - **queen and rook**
-    [lichess](https://lichess.org/editor/8/8/8/3k4/8/8/8/5RQK_w_-_-_0_1?color=white)
+    [lichess exercises](https://lichess.org/training/queenRookEndgame)
     [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/8/3k4/8/8/8/5RQK%20w%20-%20-%200%201)
 - **two rooks**
     [lichess](https://lichess.org/editor/8/8/8/8/8/4k3/6R1/6RK_w_-_-_0_1?color=white)
