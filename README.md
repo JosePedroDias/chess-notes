@@ -161,12 +161,16 @@ https://www.chess.com/openings/Barnes-Opening-Fools-Mate
 fen: rnb1kbnr/pppp1ppp/8/4p3/6Pq/5P2/PPPPP2P/RNBQKBNR w KQkq - 1 3
 ```
 
+[preventing fool's mate exercise](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPP1PP/RNBQKBNR%20w%20KQkq%20e6%200%202)
+
 ### Scholar's Mate (1.e4 e5 2.Bc4 Nc6 3.Qh5 Nf6 4.Qxf7#)
 https://www.chess.com/terms/scholars-mate-chess
 
 ```chess
 fen: r1bqkb1r/pppp1Qpp/2n2n2/4p3/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 1
 ```
+
+[preventing scholar's mate exercise](https://josepedrodias.github.io/chess/play.html?p1=SfBot%2816%29&p2=Human&sfx=1&tts=1&from-blacks=1&eval=1&dest=1#r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR%20b%20KQkq%20-%203%201)
 
 # end game
 
@@ -181,35 +185,30 @@ fen: 8/8/8/8/8/4k3/6R1/6RK w - - 0 1
 - **queen and rook**
     [lichess exercises](https://lichess.org/training/queenRookEndgame)
     [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/8/3k4/8/8/8/5RQK%20w%20-%20-%200%201)
+    [zp random](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkQR)
 - **two rooks**
     [lichess](https://lichess.org/editor/8/8/8/8/8/4k3/6R1/6RK_w_-_-_0_1?color=white)
     [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/8/8/8/4k3/6R1/6RK%20w%20-%20-%200%201)
+    [zp random](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkRR)
 
 ## king and queen mate
-- **queen 1**
-    [lichess](https://lichess.org/editor/8/8/5Q2/2k5/4K3/8/8/8_w_-_-_0_1?color=white)
-    [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/5Q2/2k5/4K3/8/8/8%20w%20-%20-%200%201)
-- **queen 2**
-    [lichess](https://lichess.org/editor/8/8/8/3k4/8/8/8/6QK_w_-_-_0_1?color=white)
-    [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/8/3k4/8/8/8/6QK%20w%20-%20-%200%201)
+- [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/5Q2/2k5/4K3/8/8/8%20w%20-%20-%200%201)
+- [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/8/3k4/8/8/8/6QK%20w%20-%20-%200%201)
+- [zp random](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkQ)
 
 ## king and rook mate
 
-- **rook 1**
-    [lichess](https://lichess.org/editor/3k4/R7/8/4K3/8/8/8/8_w_-_-_0_1?color=white)
-    [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#3k4/R7/8/4K3/8/8/8/8%20w%20-%20-%200%201)
-- **rook 2**
-    [lichess](https://lichess.org/editor/8/8/8/8/4k3/8/8/6RK_w_-_-_0_1?color=white)
-    [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/8/8/4k3/8/8/6RK%20w%20-%20-%200%201)
+- [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#3k4/R7/8/4K3/8/8/8/8%20w%20-%20-%200%201)
+- [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/8/8/4k3/8/8/6RK%20w%20-%20-%200%201)
+- [zp random](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkR)  
 
 ## two piece checkmate
 
-- **queen and bishop**
-  [lichess](https://lichess.org/editor/8/8/3B4/6K1/8/8/2k5/q7_b_-_-_0_1?color=white)
-  [zp](https://josepedrodias.github.io/chess/play.html?p1=SfBot%2816%29&p2=Human&sfx=1&tts=1&eval=1&dest=1#8/8/3B4/6K1/8/8/2k5/q7%20b%20-%20-%200%201)
-- **queen and knight**
-  [lichess](https://lichess.org/editor/8/8/8/3nk3/8/3Q4/8/7K_w_-_-_0_1?color=white)
-  [zp](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&dest=1#8/8/8/3nk3/8/3Q4/8/7K%20w%20-%20-%200%201)
+- [zp random QB](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkQB)
+- [zp random QN](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkQN)
+- [zp random RB](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkRB)
+- [zp random RN](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkRN)
+- [zp random BN](https://josepedrodias.github.io/chess/play.html?p1=Human&p2=SfBot%2816%29&sfx=1&tts=1&eval=1&puzzle-pieces=KkBN)
 
 # bindings
 
